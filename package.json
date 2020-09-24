@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-detect-hard-code",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Detect hardcoded strings.",
   "repository": "https://github.com/felipebruce/detect-hard-code",
   "homepage": "https://github.com/felipebruce/detect-hard-code",
